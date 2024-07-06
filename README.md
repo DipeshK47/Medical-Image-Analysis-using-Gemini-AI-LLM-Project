@@ -1,6 +1,6 @@
 # Medical Image Analysis using Google's Gemini AI 🩺
 
-# Link: https://medicalimageanalysisllm.streamlit.app
+Link: https://medicalimageanalysisllm.streamlit.app
 
 ## Overview
 This project utilizes Google's Gemini AI to perform advanced analysis on medical images, providing insights, reports, recommendations, and treatment suggestions based on the analysis results.
