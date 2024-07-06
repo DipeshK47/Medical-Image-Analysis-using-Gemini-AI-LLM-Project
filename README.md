@@ -2,6 +2,9 @@
 
 Link: https://medicalimageanalysisllm.streamlit.app
 
+<img width="1436" alt="Screenshot 2024-07-07 at 4 35 14 AM" src="https://github.com/DipeshK47/Medical-Image-Analysis-using-Gemini-s-AI-LLM-Project/assets/103434044/f4a2ba50-f530-48cb-90dd-7be66933dabb">
+
+
 ## Overview
 This project utilizes Google's Gemini AI to perform advanced analysis on medical images, providing insights, reports, recommendations, and treatment suggestions based on the analysis results.
 
