@@ -1,3 +1,7 @@
 streamlit
 python-dotenv
 google-generativeai
+proto-plus==1.23.0
+google-cloud-aiplatform==1.39.0
+googleapis-common-protos==1.62.0
+protobuf==3.20.3
