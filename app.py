@@ -5,7 +5,7 @@ from pathlib import Path
 import google.generativeai as genai
 
 # Configure Generative AI with API key
-genai.configure(api_key=api_key)
+genai.configure(api_key=auth_key)
 
 def upload_to_gemini(file_data, mime_type=None):
     with open(file_data.name, 'wb') as f:
