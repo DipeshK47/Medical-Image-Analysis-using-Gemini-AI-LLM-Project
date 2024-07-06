@@ -1,6 +1,1 @@
-
-
-headers = {
-  "authorization": st.secrets['auth_token']
-  'content-type': "application/json'
-}
+api_key = "enter_your_api_key"
